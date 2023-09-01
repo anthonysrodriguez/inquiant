@@ -1,10 +1,21 @@
-### Hi there 👋
+![INQ](/src/inqme.gif)
 
 
 
 
 
-<img src="./src/inqme.gif">
+
+
+
+
+
+
+
+
+
+
+# Hi there 👋
+
 <!--
 **inquiant/inquiant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
