@@ -1,4 +1,4 @@
-![INQ](/src/inqme.gif)
+![INQ](/src/inqgif.gif)
 
 
 
